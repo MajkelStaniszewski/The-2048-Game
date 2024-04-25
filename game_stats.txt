@@ -1,0 +1,16 @@
+{'Algorithm - ': 'expectimax_epsilon ', 'moves': 147, 'score': 340, 'nodes_expanded': 1381813, '2048_tiles': 0, '1024_tiles': 0, '512_tiles': 0, '128_tiles': 1, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 527, 'score': 1162, 'nodes_expanded': 2339532, '2048_tiles': 0, '1024_tiles': 0, '512_tiles': 1, '128_tiles': 0, '64_tiles': 1}
+{'Algorithm - ': 'expectibetter         ', 'moves': 481, 'score': 1064, 'nodes_expanded': 1874823, '2048_tiles': 0, '1024_tiles': 0, '512_tiles': 1, '128_tiles': 1, '64_tiles': 1}
+{'Algorithm - ': 'expectibetter         ', 'moves': 980, 'score': 2138, 'nodes_expanded': 12808179, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 1, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 1195, 'score': 2628, 'nodes_expanded': 19230683, '2048_tiles': 0, '1024_tiles': 2, '512_tiles': 0, '128_tiles': 1, '64_tiles': 1}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectibetter         ', 'moves': 932, 'score': 2056, 'nodes_expanded': 7497828, '2048_tiles': 0, '1024_tiles': 1, '512_tiles': 1, '128_tiles': 0, '64_tiles': 2}
+{'Algorithm - ': 'expectimax_epsilon ', 'moves': 208, 'score': 466, 'nodes_expanded': 1534213, '2048_tiles': 0, '1024_tiles': 0, '512_tiles': 0, '128_tiles': 0, '64_tiles': 1}

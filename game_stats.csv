@@ -1,0 +1,31 @@
+Algorithm, Moves, Score,Nodes Expanded,2048 Tiles,1024 Tiles,512 Tiles,128 Tiles,64 Tiles
+expectimax         ,984,2160,5887896,0,1,1,1,2
+expectimax         ,1379,3030,8358555,1,0,1,2,2
+
+expectibetter         ,545,1182,2207716,0,0,1,1,2
+expectibetter         ,950,2052,10813968,0,1,1,1,0
+expectibetter         ,954,2090,11341008,0,1,1,1,1
+expectibetter         ,282,628,1188150,0,0,0,1,1
+expectibetter         ,476,1060,2303974,0,0,1,1,0
+expectibetter         ,444,984,1914384,0,0,1,0,1
+expectibetter         ,293,634,1400324,0,0,0,1,2
+expectibetter         ,477,1066,2238482,0,0,1,1,1
+expectibetter         ,1389,3050,22282758,1,0,1,1,0
+expectibetter         ,933,2086,13536154,0,1,1,1,1
+
+expectibetter,504,1112,97836,0,0,1,1,2
+expectibetter,499,1106,97758,0,0,1,1,1
+expectibetter,1039,2292,4234854,0,1,1,2,2
+expectibetter,416,916,1774486,0,0,0,2,0
+expectibetter,514,1136,1954210,0,0,0,2,0
+expectibetter,504,1132,2098448,0,0,1,1,2
+expectibetter,181,402,519202,0,0,0,0,4
+expectibetter,1170,2588,16974148,1,0,0,1,1
+expectibetter,510,1142,2206468,0,0,1,1,2
+expectibetter,413,932,1858820,0,0,0,2,0
+expectibetter,956,2114,11228296,0,1,1,1,1
+expectibetter,1900,4164,37877192,1,1,1,1,1
+expectibetter,497,1084,2207034,0,0,1,1,1
+expectibetter,957,2086,13037712,0,1,1,1,1
+expectibetter,1194,2626,25783168,1,0,0,1,1
+expectibetter,1423,3142,23817700,1,0,1,1,1
